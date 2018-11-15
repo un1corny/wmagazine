@@ -1,22 +1,22 @@
 @font-face {
   font-family: 'FuturaPT-Light';
-  src: url("../../fonts/FuturaPT/FuturaPT-Light.ttf") format("truetype"); }
+  src: url("./fonts/FuturaPT/FuturaPT-Light.ttf") format("truetype"); }
 
 @font-face {
   font-family: 'FuturaPT-Bold';
-  src: url("../../fonts/FuturaPT/FuturaPT-Bold.ttf") format("truetype"); }
+  src: url("./fonts/FuturaPT/FuturaPT-Bold.ttf") format("truetype"); }
 
 @font-face {
   font-family: 'ZefaniStencil';
-  src: url("../../fonts/ZefaniFF/ZefaniStencil-Regular.otf") format("truetype"); }
+  src: url("./fonts/ZefaniFF/ZefaniStencil-Regular.otf") format("truetype"); }
 
 @font-face {
   font-family: 'SofiaPro';
-  src: url("../../fonts/SofiaPro/SofiaProLight.ttf") format("truetype"); }
+  src: url("./fonts/SofiaPro/SofiaProLight.ttf") format("truetype"); }
 
 @font-face {
   font-family: 'Bodoni';
-  src: url("../../fonts/Bodoni/Bodoni Antiqua URW Light Regular.ttf") format("truetype"); }
+  src: url("./fonts/Bodoni/Bodoni Antiqua URW Light Regular.ttf") format("truetype"); }
 
 * {
   margin: 0;
