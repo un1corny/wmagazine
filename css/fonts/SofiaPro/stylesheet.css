@@ -149,7 +149,7 @@
     src: local('Sofia Pro Light'), local('SofiaProLight'),
         url('SofiaProLight.eot?#iefix') format('embedded-opentype'),
         url('SofiaProLight.woff') format('woff'),
-        url('SofiaProLight.ttf') format('truetype');
+        url('../../SofiaProLight.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
